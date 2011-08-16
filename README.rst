@@ -5,8 +5,6 @@ Usage
 
 The module behaves identical to stdlib's ``datetime``::
 
-::
-
     >>> from sexytime import datetime
     >>> datetime.utcnow()
     datetime.datetime(2011, 8, 16, 22, 24, 26, 116079, tzinfo=<UTC>)
